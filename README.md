@@ -23,15 +23,15 @@
 
 4. Click "Load unpacked" and select the directory where you cloned the repository.
 
-##Usage
+## Usage
 1. Activate the extension by clicking on its icon in the browser toolbar.
 
 2.Navigate to an e-commerce platform.
 
 3.Hover over elements to receive real-time feedback on potential dark patterns.
 
-##Datasets
+## Datasets
 One of the challenges we faced is obtaining diverse and comprehensive datasets for training the model. The current dataset is obained from a public repository https://github.com/yamanalab/ec-darkpattern
 
-##Future prospectives
+## Future prospectives
 We intend to have a option for users to add possible new dark patterns that they may find while surfing the internet. This will help the appication be able to stay updated as new dark patterns emerge in the future. 
