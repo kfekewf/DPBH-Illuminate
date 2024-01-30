@@ -17,11 +17,11 @@
 
    ```bash
    git clone https://github.com/your-username/illuminate-dark-patterns-buster.git
-2. Open your browser and navigate to chrome://extensions/.
+2.  Open the Firefox browser and navigate to about:debugging.
 
-3. Enable "Developer mode" in the top right corner.
+3. Under "This Firefox", click on Load temporary Files. 
 
-4. Click "Load unpacked" and select the directory where you cloned the repository.
+4. Navigate to the downloaded folder and select the "manifest.json" file.
 
 ## Usage
 1. Activate the extension by clicking on its icon in the browser toolbar.
