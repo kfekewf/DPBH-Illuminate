@@ -26,9 +26,9 @@
 ## Usage
 1. Activate the extension by clicking on its icon in the browser toolbar.
 
-2.Navigate to an e-commerce platform.
+2. Navigate to an e-commerce platform.
 
-3.Hover over elements to receive real-time feedback on potential dark patterns.
+3. Hover over elements to receive real-time feedback on potential dark patterns.
 
 ## Datasets
 One of the challenges we faced is obtaining diverse and comprehensive datasets for training the model. The current dataset is obained from a public repository https://github.com/yamanalab/ec-darkpattern
